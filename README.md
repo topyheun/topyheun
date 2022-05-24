@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=000000&height=300&section=header&text=welcome&fontColor=FDEE21&fontSize=110&animation=fadeIn&fontAlignY=45&desc=Topy's%20GitHub%20Profile&descAlignY=61&descAlign=70)
 <br>
-<br>
 
 <p align="center">
     <Strong>🟠SNS list🟠</Strong><br><br>
