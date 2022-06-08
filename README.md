@@ -6,7 +6,6 @@
     <a href="https://jazzy-taker-01f.notion.site/629539107b214ae6a536177207184a38" target="_blank"><img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white"/></a>
     <a href="https://www.instagram.com/dltkdgms/" target="_blank"><img src="https://img.shields.io/badge/Instagram-FDEE21?style=flat-square&logo=Instagram&logoColor=white"/></a>
       <a href="https://kr.tradingview.com/u/Topy_heun/" target="_blank"><img src="https://img.shields.io/badge/TradingView-005AF0?style=flat-square&logo=Telegraph&logoColor=white"/></a>
-      <a href="https://www.youtube.com/channel/UC5dHJvbD9GGkxAN992HaFnA" target="_blank"><img src="https://img.shields.io/badge/Youtube-F40D12?style=flat-square&logo=Youtube&logoColor=white"/></a>
 </p>
 <br>
 <br>
